@@ -1,0 +1,32 @@
+body {
+  background-color: rgba(119, 0, 255, 0.76);
+}
+
+a:link,
+a:visited {
+  padding: 35px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: -webkit-inline-flex;
+}
+a:hover,
+a:active {
+  background-color: green;
+}
+p {
+  font-size: xx-large;
+  color: rgba(206, 209, 0, 0.76);
+}
+.image1{
+  float: left;
+  
+  padding: 15px;
+  
+}
+.image2{
+  float: right;
+
+  
+  padding: 15px;
+  
+}

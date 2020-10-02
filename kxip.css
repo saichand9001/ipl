@@ -1,0 +1,26 @@
+body {
+  background-image: url("kxip.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: red;
+  background-position: center;
+  background-size: 80% 100%;
+}
+p{
+ 
+ color:darkgoldenrod;
+ font-size: x-large;
+}
+
+a:link,
+a:visited {
+  padding: 15px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover,
+a:active {
+  background-color: green;
+}
+

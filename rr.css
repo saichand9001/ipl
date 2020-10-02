@@ -1,0 +1,27 @@
+body {
+  background-image: url("rr.jpg");
+  background-repeat:repeat-x 2;
+  background-attachment: scroll;
+  background-color: rgb(255, 0, 149);
+  background-position: center;
+  background-size: 70% 50%;
+}
+
+a:link,
+a:visited {
+  padding: 15px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover,
+a:active {
+  background-color: green;
+}
+img {
+  align-content: flex-end;
+}
+p {
+  color: black;
+  font-size: x-large;
+}

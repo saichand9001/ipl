@@ -1,0 +1,28 @@
+body {
+  background-image: url("dc.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 80% 80%;
+  background-color: rgba(0, 0, 255, 0.76);
+  
+  
+}
+
+a:link,
+a:visited {
+  
+  
+  padding: 35px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: -webkit-inline-flex;
+}
+a:hover,
+a:active {
+  background-color: green;
+}
+p{
+ font-size: xx-large;
+ color: white;
+}

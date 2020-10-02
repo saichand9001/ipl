@@ -1,0 +1,25 @@
+h1 {
+  background-image: url("srh.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: rgba(255, 0, 0, 0.877);
+  background-position: center;
+  background-size: 80% 100%;
+}
+
+a:link,
+a:visited {
+  padding: 15px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover,
+a:active {
+  background-color: green;
+}
+p {
+  background-image: none;
+  color: black;
+  font-size: x-large;
+}
